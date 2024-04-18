@@ -26,5 +26,6 @@
 #### 2. 课后作业
 * 选一部著作，可以是之前分析词频的作品，分析人物（或其他关键词）“共现”，生成关系图  
 * 用本次课学到的网页设计技术，设计一个简单的网页，放置关系图和相关说明
-* [人物关系图](file:///C:/Users/leeji/Documents/%E5%8C%97%E5%A4%A7%20%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/24%E5%B9%B4%20%E6%98%A5%E5%AD%A3/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/Assignment%202/Assignment%202%20%E4%BD%9C%E4%B8%9A.html)  
+* [人物关系图](Assignment%202%20作业.html)
+*  (file:///C:/Users/leeji/Documents/%E5%8C%97%E5%A4%A7%20%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/24%E5%B9%B4%20%E6%98%A5%E5%AD%A3/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/Assignment%202/Assignment%202%20%E4%BD%9C%E4%B8%9A.html)  
 
