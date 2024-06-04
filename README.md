@@ -35,7 +35,7 @@
 * 进行可视化的展现：可以是网页，也可以是视频等丰富的形式 
 * [可视化：网页](李佳怡%20大作业.html)
 <p>
-<img src="images/distribution_plot_a.png" alt="三国演义 第一章 人物关系图"/>
+<img src="images/distribution_plot_b.png" alt="plot b"/>
 </p>
 
 
