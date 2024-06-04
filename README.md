@@ -34,8 +34,4 @@
 * 对数据进行分析、处理和保存：要求用到Pandas或数据库
 * 进行可视化的展现：可以是网页，也可以是视频等丰富的形式 
 * [可视化：网页](李佳怡%20大作业.html)
-<p>
-<img src="images/distribution_plot_b.png" alt="plot b"/>
-</p>
-
 
